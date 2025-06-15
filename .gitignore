@@ -1,0 +1,48 @@
+# Build Results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Auto-generated
+Generated_Code/
+
+# Package Management
+packages/
+*.nupkg
+*.snupkg
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET
+appsettings.Development.json
+appsettings.*.json
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.mdf
+*.ldf
+
+# HTTP test files (optional)
+*.http
+
+# Secrets (optional, if used)
+secrets.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
